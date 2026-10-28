@@ -9,7 +9,7 @@ Análisis de los resultados del examen de admisión de la **Universidad Nacional
 - **2026-II:** 7, 8, 14 y 15 de marzo de 2026. Fueron 25,880 postulantes, en 86 carreras y 7 sedes.
 - **2027-I:** 17, 18, 24 y 25 de octubre de 2026. Fueron 28,829 postulantes, en 87 carreras y 3 sedes.
 
-En total son **54,709 registros**. El cambio más importante entre los dos procesos es el **puntaje mínimo**. En 2026-II no hubo puntaje mínimo. En 2027-I el reglamento exigió 900 puntos en Ciencias de la Salud e Ingenierías, 700 en las demás áreas y 600 en las sedes.
+En total son **54,709 registros**. El cambio más importante entre los dos procesos es el **puntaje mínimo**. En 2026-II no hubo puntaje mínimo. En 2027-I el reglamento exigió 900 puntos en Ciencias de la Salud e Ingenierías, 700 en las demás áreas y 600 en las otras sedes.
 
 ---
 
