@@ -156,15 +156,17 @@ Python (extracción) · SQL Server / T-SQL (ETL y modelado) · Git/GitHub
 
 ## 👥 Equipo
 
-**Autor:** Jose Maquera Martinez, estudiante de Estadística en la UNMSM
-[LinkedIn](https://www.linkedin.com/in/josemaqueramartinez) · [GitHub](https://github.com/JoseMaqueraMartinez) · 📩 josemaqueramar@gmail.com
-
-**Colaboradoras:**
-- Sol Tasayco Robles · [GitHub](https://github.com/TasaycoRoblesSol)
-- Valeri Yajahira M. Zavala Ipanaque · [GitHub](https://github.com/ValeriYajahiraZavalaIpanaque)
+- Jose Maquera Martinez [LinkedIn](https://linkedin.com/in/josemaqueramartinez/)
+- Sol Tasayco Robles [GitHub](https://github.com/TasaycoRoblesSol) - [LinkedIn](https://www.linkedin.com/in/tasayco-robles-sol-rosario/)
+- Valeri Zavala Ipanaque [GitHub](https://github.com/ValeriYajahiraZavalaIpanaque) - [LinkedIn](https://www.linkedin.com/in/valeri-yajahira-m-zavala-ipanaque-1a54872a9/)
 
 ---
+## 📧 Contacto
 
+- **Email:** josemaqueramar@gmail.com
+- **LinkedIn:** [Jose Maquera](https://linkedin.com/in/josemaqueramartinez/)  
+
+---
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
